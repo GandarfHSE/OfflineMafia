@@ -1,0 +1,162 @@
+*{padding: 0;margin: 0;}
+
+body{
+    background: #d9d9d9 url(public/images/95.jpg) repeat-x;
+}
+
+body h1{
+    margin-top: 5px;
+    margin-left: 25px;
+    margin-bottom: 5px;
+}
+body h3{
+    margin-top: 5px;
+    margin-left: 25px;
+    margin-bottom: 5px;
+}
+
+#logo{
+    width: 565px;  
+}
+
+#logo a{
+    text-decoration: none;
+}
+
+#logo h1{
+    margin-top: 15px;
+    margin-left: 15px;
+    font-family: "Times New Roman";
+    font-size: 50px;
+    color: rgb(255, 0, 0);
+}
+
+#page{
+    width = 960px;
+    align-content: center;
+}
+
+#navigation{
+    align-content: center;
+    margin-top: 55px;
+    height: 61px;
+}
+
+#navigation ul{
+    list-style-type: none;
+}
+
+#navigation ul li{
+    float: left;
+}
+
+#navigation ul li a{
+    font-family: "Times New Roman";
+    font-size: 18px;
+    color: #fff;
+    padding: 0 20px;
+    text-decoration: none;
+    line-height: 61px;
+    display: block;
+    height: 61px;
+}
+
+#navigation ul li a:hover{
+    background-color: rgba(255, 0, 0, 0.45);
+    text-decoration: underline;
+}
+
+.player-form{
+    margin-top: 5px;
+    margin-left: 13px;
+}
+
+.player-form10{
+    margin-top: 5px;
+    margin-left: 5px;
+}
+
+.class1{
+    margin-top: 5px;
+    margin-left: 5px;
+}
+
+.select_role{
+    margin-left: 5px;
+}
+
+#page .btn{
+    margin-left: 5px;
+}
+
+#kektor{
+    margin-left: 20px;
+}
+
+.dontext{
+    font-size: 18px;
+    color: #111111;
+}
+
+.dontext:hover{
+    color: #333333;
+}
+
+.dontext:active{
+    color: #464646;
+}
+.dontext:focus{
+    color: #464646;
+}
+
+.mafiatext{
+    font-size: 18px;
+    color: #505050;
+}
+
+.mafiatext:hover{
+    color: #606060;
+}
+
+.mafiatext:active{
+    color: #707070;
+}
+.mafiatext:focus{
+    color: #707070;
+}
+
+.towntext{
+    font-size: 18px;
+    color: #ed5454;
+}
+
+.towntext:hover{
+    color: #ff8888;
+}
+
+.towntext: active{
+    color: #ffb3b3;
+}
+.towntext: focus{
+    color: #ffb3b3;
+}
+
+.cooltext{
+    font-size: 18px;
+    color: #950a07;
+}
+.cooltext1{
+    font-size: 18px;
+    color: #950a07;
+}
+
+.cooltext:hover{
+    color: #db0b0b;
+}
+
+.cooltext:active{
+    color: rgb(255, 0, 0);
+}
+.cooltext:focus{
+    color: rgb(255, 0, 0);
+}
